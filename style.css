@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding:0;
+}
+.con1{
+    background-color: #ACE4E3;
+    width:calc(100vw-20px);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    color: #0B4350;
+}
+.doogle{
+    width: 70px;
+    height: 80px;
+    position: fixed;
+    top: calc(50% - 15px);
+    right: 0;
+    background-color: #0B4350;
+    color: #F58BCF;
+}
+.doogle i{
+    width: 100%;
+
+}
+.con2{
+    width:100vw;
+    height: 100vh;
+    background-color: #ACE4E3;
+
+}
+.text1{
+    position: absolute;
+    left: 0;
+    top: calc(40% + 100vh);
+
+
+}
+.text2{
+    position: absolute;
+    right: 0;
+    top: calc(40% + 100vh);
+}
+.text3{
+    position: absolute;
+    padding-bottom: 0;
+    left: 0;
+}
+.text4{
+    position: absolute;
+    padding-bottom: 0;
+    right: 0;
+}
+.con3 {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0B4350;
+    color: #F58BCF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con4{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0B4350;
+    color: #F58BCF;
+}
+.inside{
+    width: 60%;
+    height: 40%;
+
+    border-radius: 10px;
+    border:1px solid #F58BCF;
+    padding: 10px;
+}
+.content{
+    display: flex;
+    justify-content:  space-between;
+    gap: 10px;
+}
+.myth{
+    border-right: 1px solid #F58BCF;
+}
+.con5{
+    width: 100vw;
+    height: 100vh;
+    
+}
